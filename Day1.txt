@@ -1,4 +1,21 @@
 Day 1:
 1.Recon for Ethical Hacking / Penetration Testing & Bug Bounty - Udemy Course link:https://www.udemy.com/course/recon-for-bug-bounty-pentesting-ethicalhacking-by-shifa-rohit-hacktify/
+*Introduction
+*Note Keeping
+*Bug Bounty Recon Introduction
+*Shodan for Bug Bounty
+*Certificate Transparency for Subdomain Enumeration
+*Scope Expansion
+*Diving in Depth of Archives for Bug Bounty
+*DNS Enumeration for bug Bounties
+*CMS identification
+
 2.JavaScript Crash Course For Beginners - Traversy Media Youtube Link:https://www.youtube.com/watch?v=hdI2bqOjy3c
-3.
+*Introducion
+*var,let,const
+*String,Numbers,Boolean,null,Undefined
+*concatenation,Template String
+*Arrays
+*JSON Format
+*foreach,map,filter
+
