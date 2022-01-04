@@ -1,4 +1,4 @@
-Day 2:
+Day 2: Jan 4 , 2022
 1.Recon for Ethical Hacking / Penetration Testing & Bug Bounty - Udemy Course link:https://www.udemy.com/course/recon-for-bug-bounty-pentesting-ethicalhacking-by-shifa-rohit-hacktify/
 *Fuzzing
 *Content Discovery
@@ -8,4 +8,16 @@ Day 2:
 *Google dork 
 *Bug Bounty Platforms
 *Mindmaps for Bug Bounty
+
+2.JavaScript Crash Course For Beginners - Traversy Media Youtube Link:https://www.youtube.com/watch?v=hdI2bqOjy3c
+*if else,nested if
+*Ternary operator
+*Switch 
+*Functions
+*Arrow Function
+
+3.Python Dheeraj sir Class
+*Http req/response automation
+*lib - request,mmh3,http-client
+*http methods
 
