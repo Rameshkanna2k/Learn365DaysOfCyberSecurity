@@ -1,1 +1,11 @@
+Day 2:
+1.Recon for Ethical Hacking / Penetration Testing & Bug Bounty - Udemy Course link:https://www.udemy.com/course/recon-for-bug-bounty-pentesting-ethicalhacking-by-shifa-rohit-hacktify/
+*Fuzzing
+*Content Discovery
+*Visual Recon
+*Github Recon
+*WAF detect scan
+*Google dork 
+*Bug Bounty Platforms
+*Mindmaps for Bug Bounty
 
