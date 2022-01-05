@@ -1,0 +1,24 @@
+Day-3
+1.Ethical Hacking / Penetration Testing & Bug Bounty Hunting - Udemy Course link - https://www.udemy.com/course/website-hacking-penetration-testing-bug-bounty-hunting-live-attacks/
+*Introduction
+*OWASP Top 10
+Basic of:
+         *Injection
+         *Broken Authentication
+         *SDE
+         *XXE
+         *BAC
+         *Security Misconfiguration
+         *XSS
+         *Insecure Deserialization
+         *Using Components with Known Vulnerabilites
+         *Insufficient Logging and Monitoring
+         
+2.JavaScript Crash Course For Beginners - Traversy Media Youtube Link:https://www.youtube.com/watch?v=hdI2bqOjy3c
+*Constructor
+*Object Oriented Program
+*Instantiate object
+*Class
+
+3.Dheeraj Sir Class:
+*Proxy for Python Program
