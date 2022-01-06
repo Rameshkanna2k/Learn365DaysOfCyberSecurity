@@ -1,0 +1,15 @@
+Day-4
+1.Ethical Hacking / Penetration Testing & Bug Bounty Hunting - Udemy Course link - https://www.udemy.com/course/website-hacking-penetration-testing-bug-bounty-hunting-live-attacks/
+*Brupsuite Setup
+*Brupsuite Working
+*Authentication Bypass
+*OTP Bypass
+*Captcha Bypass
+*Account Takeovers
+*OTP exposure
+         
+2.JavaScript Crash Course For Beginners - Traversy Media Youtube Link:https://www.youtube.com/watch?v=hdI2bqOjy3c
+*Selectors
+*Types of Selectors
+*Document object Model
+*EventListener
