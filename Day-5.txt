@@ -1,0 +1,9 @@
+Day-5
+1.Ethical Hacking / Penetration Testing & Bug Bounty Hunting - Udemy Course link - https://www.udemy.com/course/website-hacking-penetration-testing-bug-bounty-hunting-live-attacks/
+*2FA Authentication Bypass
+*No Rate-Limiting to Account takeover
+
+2.Python
+*class
+
+3.Clickjacking bug working
