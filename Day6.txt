@@ -1,0 +1,11 @@
+Cyber Threat Intelligence Classes from Veltech
+Topics Learned:
+*Basics of Red Teaming
+*Basics of Blue Teaming
+*Incident Response in Cyber Security
+*Threat Hunting
+*MISP Software
+*Traffic Light Protocal
+*IRtriage Tool
+*EDR
+*Basic Of Linux,Networking
