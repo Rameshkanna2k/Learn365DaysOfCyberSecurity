@@ -1,0 +1,11 @@
+Cyber Threat Intelligence Classes from Veltech
+Topics Learned:
+*About Bug Bounty
+*TAXII VER
+*Registry logs
+*IR Triage tool in depth
+*cyber forensics evidence collection
+*Certifications in Cyber Security
+*Various Websites of Malware Analyis
+*Future of Cyber Security
+*Script Languages in Cyber Security
