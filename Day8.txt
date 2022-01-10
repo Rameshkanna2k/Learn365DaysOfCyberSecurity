@@ -1,0 +1,5 @@
+Day-8 
+*Github Dorks.
+*Automations for Finding XSS(Qickxss).
+*learned some bug reports related to clickjacking.
+*Fun part of today reported a clickjacking bug to google.
