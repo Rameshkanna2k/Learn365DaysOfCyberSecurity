@@ -1,0 +1,3 @@
+Day-9
+*Shodan OSINT Automation to Mass Exploitation of Vulnerabilities(1 hour)
+*Learned some Bug Bounty tips for admin bypass
