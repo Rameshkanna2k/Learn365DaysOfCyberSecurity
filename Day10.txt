@@ -1,0 +1,8 @@
+Cloud Security Basics: class conductd by Sanjeev Kumar Jaiswal
+*Cloud Computing
+*Service model and Deployment model
+*Why we need Cloud Security
+*Cloud Secuity Fundamentals
+
+Bug Bounty report:
+*Admin Panel Bypass
