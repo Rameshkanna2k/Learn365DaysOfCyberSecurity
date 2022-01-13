@@ -1,0 +1,9 @@
+Cloud Security Basics:
+*AWS IAM Basics
+*AWS S3 Basics
+*AWS EC2 Basics
+
+Bug Bounty Tools:
+*Paramspider
+*Nuclei
+*Eyewitness
