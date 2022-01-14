@@ -1,0 +1,6 @@
+Day-12
+1.Ethical Hacking / Penetration Testing & Bug Bounty Hunting - Udemy Course link - https://www.udemy.com/course/website-hacking-penetration-testing-bug-bounty-hunting-live-attacks/
+*Cross site scripting
+*CSRF Basics
+
+2.OpenDreamBox 2.0.0 Plugin Webadmin RCE
