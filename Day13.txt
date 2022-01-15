@@ -1,0 +1,7 @@
+Day-13
+1.Ethical Hacking / Penetration Testing & Bug Bounty Hunting - Udemy Course link - https://www.udemy.com/course/website-hacking-penetration-testing-bug-bounty-hunting-live-attacks/
+*CSRF Basics
+*CORS
+
+2.Cloud Security Basics:
+*AWS Fundamentals with top 10 services
