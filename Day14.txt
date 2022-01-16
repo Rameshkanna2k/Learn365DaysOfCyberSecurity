@@ -1,0 +1,5 @@
+Day-14
+1.Ethical Hacking / Penetration Testing & Bug Bounty Hunting - Udemy Course link - https://www.udemy.com/course/website-hacking-penetration-testing-bug-bounty-hunting-live-attacks/
+*How to start with bug bounty platforms
+*Bug Bounty Reporting templates
+*Remote code execution
