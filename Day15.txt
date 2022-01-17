@@ -1,0 +1,3 @@
+Day-15
+Read this Writeup:
+https://medium.com/p/my-methodology-in-recon-and-find-bugs-my-methodology-in-hunting-using-phone-ccc9fe06dd2d?source=social.tw&_branch_match_id=986149552488261500&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1feqTAurCAk3CsxMAgD9r1wkIwAAAA%3D%3D&s=08
