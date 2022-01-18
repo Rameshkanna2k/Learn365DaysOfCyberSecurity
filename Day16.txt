@@ -1,0 +1,3 @@
+Day-16
+*How to Identify and Exploit CVE-2021-43798 - Grafana Unauthenticated Directory Traversal - https://www.youtube.com/watch?v=EeTTfjNFJUU
+*AEM sign in Page exploit
