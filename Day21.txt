@@ -1,0 +1,12 @@
+Day-21 (its Sunday just learned little)
+Read some writeups on dorking:
+*https://medium.com/@mohamedtaha_42562/how-i-found-xss-vulnerability-in-amazon-in-5-minutes-using-shodan-50b583655297
+*https://infosecwriteups.com/accessing-grofers-grafana-instance-using-shodan-52c585ada797
+*https://medium.com/@sw33tlie/finding-a-p1-in-one-minute-with-shodan-io-rce-735e08123f52
+*https://medium.com/@bathinivijaysimhareddy/shodan-is-your-friend-if-you-lose-him-you-will-lose-many-657d07472f75
+*https://infosecwriteups.com/how-i-found-xss-by-searching-in-shodan-6943b799e648
+*https://medium.com/@fcwdbrqmr/400-bounty-again-using-google-dorks-6dc8e438f017
+*https://mikekitckchan.medium.com/from-google-dorking-to-information-disclosure-5da4f1d771e5
+*https://infosecwriteups.com/weird-and-very-easy-authentication-bypass-found-with-google-dorking-c13230a038ed
+*https://infosecwriteups.com/information-disclosure-at-paypal-and-xoom-paypal-acquisition-via-simple-google-dork-1-000-usd-b726fe628a05
+*https://bughunter25.medium.com/story-of-a-uri-based-xss-with-some-simple-google-dorking-e1999254aa55
