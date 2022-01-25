@@ -1,0 +1,5 @@
+Day-23
+Tryhackme:Complete Beginner
+*Windows Exploitation Basics
+*Shells and Privilege Escalation
+*Basic Computer Exploitation(not completed fully)
