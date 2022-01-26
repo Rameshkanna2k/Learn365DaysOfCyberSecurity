@@ -1,0 +1,4 @@
+Day-24
+Tryhackme:Complete Beginner
+*Basic Computer Exploitation
+*Tryhackme:Complete Beginner(full revision)
