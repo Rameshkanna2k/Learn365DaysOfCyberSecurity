@@ -1,0 +1,4 @@
+Day-26
+learned about Shodan
+*https://www.youtube.com/watch?v=F2wZ04SXTQU
+*https://www.youtube.com/watch?v=q7DL23cEEmU
