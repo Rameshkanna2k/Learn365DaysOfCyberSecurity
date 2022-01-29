@@ -1,0 +1,4 @@
+Day-27
+Learned some Bug Bounty tips:
+*https://www.cyberick.com/bugbounty?s=08
+*https://github.com/dwisiswant0/awesome-oneliner-bugbounty?s=08
