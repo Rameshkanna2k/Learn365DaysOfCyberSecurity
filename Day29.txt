@@ -1,0 +1,4 @@
+Day-29
+*learned about sqlmap Tools
+*https://www.youtube.com/watch?v=nVj8MUKkzQk&t=19s
+*https://www.youtube.com/watch?v=yizZ2jhlE90
