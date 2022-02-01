@@ -1,0 +1,6 @@
+Day-30
+Practical Ethical Hacking - The Complete Course - TCM Security
+*Introduction
+*Notekeeping
+*Networking Refresher
+*Setting Up Our Lab
