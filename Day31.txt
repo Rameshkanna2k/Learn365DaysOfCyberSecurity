@@ -1,0 +1,4 @@
+Day-31
+Practical Ethical Hacking - The Complete Course - TCM Security
+*Introduction to Linux
+*Introduction to Python(half)
