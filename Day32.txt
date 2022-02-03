@@ -1,0 +1,5 @@
+Day-32
+Practical Ethical Hacking - The Complete Course - TCM Security
+*Introduction to Python(half)
+*The Ethical Hacker Methodology
+*Information Gathering (Reconnaissance)
