@@ -1,0 +1,7 @@
+Day-38
+Complete Practical Course on Ethical Hacking, Penetration Testing and Bug Bounty Hunting with Live Attacks-udemy course
+*Subdomain Takeover
+*HTML injection
+*Clickjacking
+
+From Tomorrow gonna study web development things for some days not focus on infosec.
