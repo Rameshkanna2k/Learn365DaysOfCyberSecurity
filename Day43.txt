@@ -1,0 +1,33 @@
+Day-43
+learned topics for cyber threat intelligence class conducted in our college
+Assignment questions:
+
+Explain the following threats:
+Spear Phishing email
+Water – holding attack. 
+USB play attack.
+Drive – by – Download
+Ransomware
+         OR
+Apt attacks
+
+Explain         
+Web application
+SQL Injection
+XSS Cross site Script
+Web shells
+        OR
+Brief counter measures to thwart SQL injection
+
+
+Explain in detail about Cyber Threat Intelligence
+                                        OR
+         Explain in detail Cyber-Kill-Chain.
+
+Explain in detail about MITRE Attack Framework
+                                         OR
+       Explain Static & Dynamic Analysis
+
+Explain about TLP, MISP, IOC
+                     OR
+Write Short note on EDR, Anti-virus, Sandbox.
