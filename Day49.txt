@@ -1,0 +1,4 @@
+Day-49
+Complete Practical Course on Ethical Hacking, Penetration Testing and Bug Bounty Hunting with Live Attacks-udemy course
+*Remote code execution
+*bug bounty platforms
